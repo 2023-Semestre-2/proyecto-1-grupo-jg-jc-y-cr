@@ -6,5 +6,5 @@
 ### [2023045040] [Jimmy Castillo Guzmán]
 
 ### Estado del proyecto: 2
-### Enlace del video: (Si esto fue solicitado)
+### Enlace del video: https://youtu.be/BXbQ6ttUjok
 Recordar que el video debe ser público y con sonido para ser visto por el profesor
